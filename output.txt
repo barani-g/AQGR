@@ -1,0 +1,18 @@
+Question-01: What these technologies complete with the speaker or writer ’ J and sentiment?
+Question-02: Who complete with the speaker or writer ’ s intent and sentiment?
+Question-03: What do and summarize of text rapidly—even in real time?
+Question-04: Who summarize large volumes of text rapidly—even in real time?
+Question-05: What and simplify?
+Question-06: Who simplify mission-critical business processes?
+Question-07: What increase employee productivity and simplify?
+Question-08: Who simplify mission-critical business processes?
+Question-09: What are if those applications going to be useful?
+Question-10: Who are going to be useful?
+Question-11: What are and if those applications going to be useful?
+Question-12: Who are going to be useful?
+Question-13: What does the Python programing language provides of tools and libraries for attacking specific Nlp tasks?
+Question-14: Who provides a wide range of tools and libraries for attacking specific Nlp tasks?
+Question-15: Who attacking specific Nlp tasks?
+Question-16: What but could n't easily scale to accommodate of exceptions or the increasing volumes of text and voice data?
+Question-17: Who could n't easily scale to accommodate a seemingly endless stream of exceptions or the increasing volumes of text and voice data?
+Question-18: Who increasing volumes of text and voice data?
